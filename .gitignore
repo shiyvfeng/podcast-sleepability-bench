@@ -1,0 +1,37 @@
+# Local inputs, models and generated outputs may contain audio or transcript text.
+/samples/
+/cache/
+/models/
+/output/
+# Local planning notes; public usage documentation lives in README.md.
+/项目简报.md
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+:memory:*
+*.log
+
+# Audio/video and transcription artifacts must never be committed.
+*.[wW][aA][vV]
+*.[mM][pP]3
+*.[mM]4[aAbB]
+*.[aA][aA][cC]
+*.[fF][lL][aA][cC]
+*.[oO][gG][gG]
+*.[oO][pP][uU][sS]
+*.[aA][iI][fF]*
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[wW][eE][bB][mM]
+*.srt
+*.vtt
+**/transcripts*/
+**/transcriptions*/
+
+# Credentials and local settings
+.env
+.env.*
+*.pem
+*.key

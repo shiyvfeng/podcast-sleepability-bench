@@ -1,0 +1,40 @@
+{
+  "s01": {
+    "name": "十字路口Crossing",
+    "episode": "AI时代是谁的黄金时代？｜和张咋啦聊：文科生、积极行动、爆款的规律、普通人也能赢",
+    "short": "AI 时代 × 张咋啦",
+    "identification": "用户文件名"
+  },
+  "s02": {
+    "name": "三五环",
+    "episode": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+    "short": "No.233 折叠手机",
+    "identification": "用户文件名；文件内 artist/album 疑似制作工具遗留，不用于识别"
+  },
+  "s03": {
+    "name": "硅谷101",
+    "episode": "全面解析“世界模型”：定义、路线、实践与AGI的更近一步",
+    "short": "全面解析世界模型",
+    "identification": "用户文件名；Bilibili 导出音轨"
+  },
+  "s04": {
+    "name": "张小珺Jùn｜商业访谈录",
+    "episode": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+    "short": "No.153 曾鸣访谈",
+    "identification": "用户文件名与发布页标题及时长相符；Bilibili 导出音轨",
+    "url": "https://www.youtube.com/watch?v=69iJSe2n3ls"
+  },
+  "s05": {
+    "name": "鹿鹿鱼鱼",
+    "episode": "#22 在风口也在浪尖：8年TikTok到Meta，做影响十亿人的产品",
+    "short": "No.22 从 TikTok 到 Meta",
+    "identification": "节目名来自文件名；114 分钟时长及开头嘉宾自述 TikTok 八年、三个月前加入 Meta 与发布页相符；核对依据 output/transcripts/s05_intro.txt",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a85717cef65145dfcc20222"
+  },
+  "s06": {
+    "name": "葬AI",
+    "episode": "蒸馏Liblib陈冕：关于成为神的时刻",
+    "short": "Liblib 陈冕访谈",
+    "identification": "用户提供的文件名"
+  }
+}
